@@ -1,0 +1,6 @@
+a.adtng.com
+ads.trafficjunky.com
+ht-cdn2.adtng.com
+hw-cdn2.adtng.com
+static.trafficjunky.com
+stats.g.doubleclick.net
