@@ -101,7 +101,6 @@ cmh-v4.pops.fastly-insights.com
 etou-v4.pops.fastly-insights.com
 ewr-v4.pops.fastly-insights.com
 fastly-insights.com
-ftb.fandom.com
 hbopenbid.pubmatic.com
 htlb.casalemedia.com
 i.liadm.com
